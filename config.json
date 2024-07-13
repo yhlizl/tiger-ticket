@@ -1,0 +1,20 @@
+{   
+    "url" : "https://www.tigerairtw.com/zh-tw/",
+    "login_url" : "https://membership.tigerairtw.com/zh-TW/login",
+    "username": "hans.kusos@hotmail.com",
+    "password": "hans5943",
+    "ticket_count": 3,
+    "departure": "台北(桃園) (TPE)",
+    "destination": "沖繩",
+    "departure_date": "7/16/2024",
+    "return_date": "7/17/2024",
+    "promo_code": "",
+    "acceptable_departure_time_range": {
+        "start": "08:00",
+        "end": "12:00"
+    },
+    "acceptable_return_time_range": {
+        "start": "15:00",
+        "end": "20:00"
+    }
+}
